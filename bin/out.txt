@@ -1,0 +1,21 @@
+Welcome to TextBuddy, testfile.txt is ready for use.
+Enter Command: Added to testfile.txt: "one"
+Enter Command: Added to testfile.txt: "three"
+Enter Command: Added to testfile.txt: "two"
+Enter Command: 1. one
+2. three
+3. two
+Enter Command: Deleted from testfile.txt: "three"
+Enter Command: 1. one
+2. two
+Enter Command: All contents deleted from testfile.txt
+Enter Command: testfile.txt is empty!
+Enter Command: Invalid command format: 
+Enter Command: Invalid command format: add
+Enter Command: Invalid command format: delete
+Enter Command: Added to testfile.txt: "one"
+Enter Command: Index 2 is not found!
+Enter Command: Deleted from testfile.txt: "one"
+Enter Command: testfile.txt is empty!
+Enter Command: testfile.txt is empty!
+Enter Command: 
